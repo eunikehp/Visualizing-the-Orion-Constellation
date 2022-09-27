@@ -10,3 +10,4 @@ The goal of the project is to understand spatial perspective. Once you visualize
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Orion_constellation_with_star_labels.jpg" alt="Orion" style="width: 400px;"/>
 
+[See details](https://github.com/eunikehp/Visualizing-the-Orion-Constellation/blob/main/constellation.ipynb)
